@@ -1,0 +1,17 @@
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\bin\Debug\net7.0\Fundamentos.exe
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\bin\Debug\net7.0\Fundamentos.deps.json
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\bin\Debug\net7.0\Fundamentos.dll
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\bin\Debug\net7.0\Fundamentos.pdb
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.dll
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\User\Documents\ProjetosVScode\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CopyComplete
